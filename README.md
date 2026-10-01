@@ -1,4 +1,4 @@
-# 07 Data Security
+# 07 Cybersecurity - Data Security
 
 This wiki transforms the data security transcript into a simple, easy-to-read GitHub Wiki.
 
